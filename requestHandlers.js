@@ -2,6 +2,7 @@
  * Created by mike on 15/08/15.
  */
 
+
 function start(response) {
     console.log("Request handler 'start' was called.");
 
